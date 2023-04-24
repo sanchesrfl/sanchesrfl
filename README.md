@@ -1,4 +1,4 @@
 ### Hi there, 
-#### I am a Data and Backend Engineer who likes to scale and optmize complex systems.
+#### I am a Software Engineer who likes to build scalable and optmized systems.
 #### Love to teach technology :)
 
