@@ -1,4 +1,2 @@
 ### Hi there, 
-#### I am a Software Engineer who likes to build scalable and optmized systems.
-#### Love to teach technology :)
-
+#### I am a Software Engineer who loves to build scalable, optmized systems and teach technoloy :)
